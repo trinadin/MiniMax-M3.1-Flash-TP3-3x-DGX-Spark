@@ -109,7 +109,7 @@ keep the same effective KV.
 
 ```sh
 # 0. get the recipe. Every command below runs from the recipe root.
-git clone https://github.com/PrblyElect/MiniMax-M3.1-Flash-TP3-3x-DGX-Spark.git
+git clone https://github.com/trinadin/MiniMax-M3.1-Flash-TP3-3x-DGX-Spark.git
 export RECIPE_DIR=~/MiniMax-M3.1-Flash-TP3-3x-DGX-Spark   # LOCAL path (expanded here)
 cd "$RECIPE_DIR"
 #    (the upstream recipe for this model, with its mandatory serve flags, is
